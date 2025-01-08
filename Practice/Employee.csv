@@ -1,0 +1,6 @@
+﻿EmployeeID,FirstName,LastName,Department,DepartmentID,Salary,JoinDate
+1,Alice,Smith,HR,1,50000,1/15/2020
+2,Bob,Johnson,IT,2,70000,6/10/2019
+3,Charlie,Brown,Finance,3,60000,3/20/2021
+4,Diana,Wilson,IT ,2,80000,11/5/2018
+5,Evan,Taylor,HR,1,55000,7/19/2022
